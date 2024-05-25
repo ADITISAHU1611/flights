@@ -1,0 +1,21 @@
+{
+  "name": "flight_navigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "googlemaps": "^1.12.0",
+    "mapbox": "^1.0.0-beta10",
+    "mongoose": "^8.4.0",
+    "turf": "^3.0.14"
+  }
+}
